@@ -1,0 +1,89 @@
+{
+    "dashboard": {
+        "welcome": "Welcome",
+        "logout": "Logout",
+        "liveWeather": "Live Weather",
+        "soilTesting": "Soil Testing",
+        "soilTestingDesc": "Get fertilizer recommendations based on soil health.",
+        "pestDetection": "Pest Detection",
+        "pestDetectionDesc": "Identify crop diseases using AI.",
+        "cropAdvisory": "Crop Advisory",
+        "cropAdvisoryDesc": "Smart crop selection for your season.",
+        "marketPrices": "Market Prices",
+        "marketPricesDesc": "Live mandi rates & trends.",
+        "govtSchemes": "Govt Schemes",
+        "govtSchemesDesc": "Financial aid & subsidies."
+    },
+    "weather": {
+        "temperature": "Temperature",
+        "humidity": "Humidity",
+        "windSpeed": "Wind Speed",
+        "condition": "Condition",
+        "loading": "Loading weather..."
+    },
+    "soil": {
+        "title": "Soil Health & Testing",
+        "phLevel": "pH Level",
+        "nitrogen": "Nitrogen (N)",
+        "phosphorus": "Phosphorus (P)",
+        "potassium": "Potassium (K)",
+        "analyze": "Analyze Soil",
+        "results": "Soil Analysis Results",
+        "healthStatus": "Health Status",
+        "deficiency": "Nutrient Deficiency",
+        "recommendation": "Fertilizer Recommendation",
+        "back": "Back to Dashboard"
+    },
+    "pest": {
+        "title": "Pest & Disease Detection",
+        "upload": "Upload Crop Image",
+        "analyzing": "Analyzing Image...",
+        "results": "Diagnosis Results",
+        "disease": "Disease Detected",
+        "confidence": "Confidence",
+        "symptoms": "Symptoms",
+        "treatment": "Recommended Treatment",
+        "chemical": "Chemical Control",
+        "organic": "Organic Control",
+        "back": "Back to Dashboard"
+    },
+    "crop": {
+        "title": "Smart Crop Advisory",
+        "season": "Select Season",
+        "soilType": "Select Soil Type",
+        "getRec": "Get Recommendations",
+        "duration": "Duration",
+        "water": "Water Needs",
+        "profit": "Est. Profit",
+        "back": "Back to Dashboard",
+        "seasons": {
+            "Kharif": "Kharif (Monsoon)",
+            "Rabi": "Rabi (Winter)",
+            "Zaid": "Zaid (Summer)"
+        },
+        "soils": {
+            "Alluvial": "Alluvial Soil",
+            "Black": "Black Soil",
+            "Red": "Red Soil",
+            "Laterite": "Laterite Soil"
+        }
+    },
+    "market": {
+        "title": "Market Prices & Trends",
+        "crop": "Crop",
+        "price": "Price (₹/Q)",
+        "change": "Change",
+        "trend": "Trend",
+        "forecast": "Forecast",
+        "insight": "Market Insight",
+        "back": "Back to Dashboard"
+    },
+    "schemes": {
+        "title": "Government Schemes",
+        "subtitle": "Explore financial aid and support programs for farmers.",
+        "visit": "Visit Portal",
+        "eligibility": "Eligibility",
+        "benefits": "Benefits",
+        "back": "Back to Dashboard"
+    }
+}
